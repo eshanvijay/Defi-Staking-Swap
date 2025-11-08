@@ -10,7 +10,7 @@
 
 ## 📹 Video Link
 
-**[Add your video link here after uploading]**
+**[[Add your video link here after uploading](https://drive.google.com/file/d/1YrHq2Mm20nCBc82VReq1lYvd68stt5oK/view?usp=sharing)]**
 
 Options for uploading:
 - YouTube (Unlisted): https://youtube.com/upload
