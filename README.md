@@ -354,8 +354,8 @@ This project is for educational purposes.
 ## 📞 Contact
 
 For questions or feedback about this project:
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: eshanvijay23@gmail.com
+- GitHub: [@eshanvijay](https://github.com/eshanvijay)
 
 ---
 
