@@ -372,7 +372,7 @@ This project was developed as part of a Blockchain course to demonstrate:
 - Full-stack dApp development
 - Web3 integration capabilities
 
-**Instructor:** [Professor Name]  
+**Instructor:** [Mrs Lifna C.S]  
 **Course:** Blockchain Technology  
-**Institution:** [Your Institution]  
+**Institution:** [Vivekanand Education Society's Institute of Technology]  
 **Date:** November 2025
