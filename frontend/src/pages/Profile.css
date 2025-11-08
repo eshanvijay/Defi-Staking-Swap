@@ -1,0 +1,52 @@
+.profile-page {
+  padding: 20px 0;
+}
+
+.profile-info {
+  margin-top: 16px;
+}
+
+.info-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.info-item:last-child {
+  border-bottom: none;
+}
+
+.info-label {
+  font-weight: 600;
+  color: #666;
+}
+
+.info-value {
+  color: #333;
+  font-family: monospace;
+  font-size: 14px;
+}
+
+.table-container {
+  overflow-x: auto;
+  margin-top: 20px;
+}
+
+.no-transactions {
+  text-align: center;
+  color: #666;
+  padding: 40px;
+}
+
+.tx-link {
+  color: #667eea;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.tx-link:hover {
+  text-decoration: underline;
+}
+
